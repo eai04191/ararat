@@ -1,0 +1,14 @@
+{
+  "name": "ararat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stellarianetwork/ararat.git",
+  "author": "Irie Aoi <eai@mizle.net>",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.8.31",
+    "dotenv": "^8.2.0",
+    "got": "^11.5.1",
+    "vercel": "^19.2.0"
+  }
+}
